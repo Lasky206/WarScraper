@@ -1,0 +1,15 @@
+C:\Users\Lasky\Documents\WarScraper\bin\Debug\netcoreapp3.1\WarScraper.exe
+C:\Users\Lasky\Documents\WarScraper\bin\Debug\netcoreapp3.1\WarScraper.deps.json
+C:\Users\Lasky\Documents\WarScraper\bin\Debug\netcoreapp3.1\WarScraper.runtimeconfig.json
+C:\Users\Lasky\Documents\WarScraper\bin\Debug\netcoreapp3.1\WarScraper.runtimeconfig.dev.json
+C:\Users\Lasky\Documents\WarScraper\bin\Debug\netcoreapp3.1\WarScraper.dll
+C:\Users\Lasky\Documents\WarScraper\bin\Debug\netcoreapp3.1\WarScraper.pdb
+C:\Users\Lasky\Documents\WarScraper\obj\Debug\netcoreapp3.1\WarScraper.csprojAssemblyReference.cache
+C:\Users\Lasky\Documents\WarScraper\obj\Debug\netcoreapp3.1\WarScraper.AssemblyInfoInputs.cache
+C:\Users\Lasky\Documents\WarScraper\obj\Debug\netcoreapp3.1\WarScraper.AssemblyInfo.cs
+C:\Users\Lasky\Documents\WarScraper\obj\Debug\netcoreapp3.1\WarScraper.csproj.CoreCompileInputs.cache
+C:\Users\Lasky\Documents\WarScraper\obj\Debug\netcoreapp3.1\WarScraper.dll
+C:\Users\Lasky\Documents\WarScraper\obj\Debug\netcoreapp3.1\WarScraper.pdb
+C:\Users\Lasky\Documents\WarScraper\obj\Debug\netcoreapp3.1\WarScraper.genruntimeconfig.cache
+C:\Users\Lasky\Documents\WarScraper\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\Lasky\Documents\WarScraper\obj\Debug\netcoreapp3.1\WarScraper.csproj.CopyComplete

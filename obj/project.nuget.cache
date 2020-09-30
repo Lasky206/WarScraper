@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8FqDb7/K7q82X3LBpwB57fpTQM70OmuBe+05qeUgBXx9ARhqJ261qqbTRQcZL09qTHl3FBiedkx4B069u+uTsw==",
+  "dgSpecHash": "9TBXF8/xe3TEO/42rKp61VD50D+degFmPrGMeXu8p0WyacXuUQhxY2B/pW3sju96wscbzAXp+XoffsclMLqbHg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lasky\\Documents\\WarScraper\\WarScraper.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Lasky\\.nuget\\packages\\htmlagilitypack\\1.11.24\\htmlagilitypack.1.11.24.nupkg.sha512"
+  ],
   "logs": []
 }

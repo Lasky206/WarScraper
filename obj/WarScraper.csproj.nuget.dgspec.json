@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lasky\\Documents\\WarScraper\\WarScraper.csproj": {}
+    "D:\\Documents\\Coding\\WarScraper\\WarScraper.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lasky\\Documents\\WarScraper\\WarScraper.csproj": {
+    "D:\\Documents\\Coding\\WarScraper\\WarScraper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lasky\\Documents\\WarScraper\\WarScraper.csproj",
+        "projectUniqueName": "D:\\Documents\\Coding\\WarScraper\\WarScraper.csproj",
         "projectName": "WarScraper",
-        "projectPath": "C:\\Users\\Lasky\\Documents\\WarScraper\\WarScraper.csproj",
+        "projectPath": "D:\\Documents\\Coding\\WarScraper\\WarScraper.csproj",
         "packagesPath": "C:\\Users\\Lasky\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lasky\\Documents\\WarScraper\\obj\\",
+        "outputPath": "D:\\Documents\\Coding\\WarScraper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lasky\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,9 +38,15 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+<<<<<<< HEAD
             "HtmlAgilityPack": {
               "target": "Package",
               "version": "[1.11.24, )"
+=======
+            "ScrapySharp": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+>>>>>>> 7ff60de341667229943f22af2d49802155cae629
             }
           },
           "imports": [

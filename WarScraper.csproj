@@ -4,6 +4,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <PackageReference Include="HtmlAgilityPack" Version="1.11.24"/>
+=======
+    <PackageReference Include="ScrapySharp" Version="3.0.0"/>
+>>>>>>> 7ff60de341667229943f22af2d49802155cae629
   </ItemGroup>
 </Project>
